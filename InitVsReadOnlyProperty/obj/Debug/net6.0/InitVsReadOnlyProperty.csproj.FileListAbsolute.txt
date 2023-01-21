@@ -1,0 +1,15 @@
+C:\Users\s.molaee\source\repos\InitVsReadOnlyProperty\InitVsReadOnlyProperty\bin\Debug\net6.0\InitVsReadOnlyProperty.exe
+C:\Users\s.molaee\source\repos\InitVsReadOnlyProperty\InitVsReadOnlyProperty\bin\Debug\net6.0\InitVsReadOnlyProperty.deps.json
+C:\Users\s.molaee\source\repos\InitVsReadOnlyProperty\InitVsReadOnlyProperty\bin\Debug\net6.0\InitVsReadOnlyProperty.runtimeconfig.json
+C:\Users\s.molaee\source\repos\InitVsReadOnlyProperty\InitVsReadOnlyProperty\bin\Debug\net6.0\InitVsReadOnlyProperty.dll
+C:\Users\s.molaee\source\repos\InitVsReadOnlyProperty\InitVsReadOnlyProperty\bin\Debug\net6.0\InitVsReadOnlyProperty.pdb
+C:\Users\s.molaee\source\repos\InitVsReadOnlyProperty\InitVsReadOnlyProperty\obj\Debug\net6.0\InitVsReadOnlyProperty.csproj.AssemblyReference.cache
+C:\Users\s.molaee\source\repos\InitVsReadOnlyProperty\InitVsReadOnlyProperty\obj\Debug\net6.0\InitVsReadOnlyProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.molaee\source\repos\InitVsReadOnlyProperty\InitVsReadOnlyProperty\obj\Debug\net6.0\InitVsReadOnlyProperty.AssemblyInfoInputs.cache
+C:\Users\s.molaee\source\repos\InitVsReadOnlyProperty\InitVsReadOnlyProperty\obj\Debug\net6.0\InitVsReadOnlyProperty.AssemblyInfo.cs
+C:\Users\s.molaee\source\repos\InitVsReadOnlyProperty\InitVsReadOnlyProperty\obj\Debug\net6.0\InitVsReadOnlyProperty.csproj.CoreCompileInputs.cache
+C:\Users\s.molaee\source\repos\InitVsReadOnlyProperty\InitVsReadOnlyProperty\obj\Debug\net6.0\InitVsReadOnlyProperty.dll
+C:\Users\s.molaee\source\repos\InitVsReadOnlyProperty\InitVsReadOnlyProperty\obj\Debug\net6.0\refint\InitVsReadOnlyProperty.dll
+C:\Users\s.molaee\source\repos\InitVsReadOnlyProperty\InitVsReadOnlyProperty\obj\Debug\net6.0\InitVsReadOnlyProperty.pdb
+C:\Users\s.molaee\source\repos\InitVsReadOnlyProperty\InitVsReadOnlyProperty\obj\Debug\net6.0\InitVsReadOnlyProperty.genruntimeconfig.cache
+C:\Users\s.molaee\source\repos\InitVsReadOnlyProperty\InitVsReadOnlyProperty\obj\Debug\net6.0\ref\InitVsReadOnlyProperty.dll
